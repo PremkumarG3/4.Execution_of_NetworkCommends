@@ -68,10 +68,13 @@ PING COMMAND:
 CLIENT:
 ![image](https://github.com/23006823/4.Execution_of_NetworkCommends/assets/138971409/f0224205-b5cd-495b-ab42-41d94d90a366)
 
+
 SERVER:
+
 ![image](https://github.com/23006823/4.Execution_of_NetworkCommends/assets/138971409/0f68ff71-ae05-4ecf-88cb-1460f7a65abe)
 
 TRANCEROUTE COMMAND:
+
 ![image](https://github.com/23006823/4.Execution_of_NetworkCommends/assets/138971409/df583ff1-736c-4fb2-8128-e42e18e4caf8)
 
 ## Result
