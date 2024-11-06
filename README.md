@@ -67,16 +67,16 @@ PING COMMAND:
 
 CLIENT:
 
-![image](https://github.com/23006823/4.Execution_of_NetworkCommends/assets/138971409/f0224205-b5cd-495b-ab42-41d94d90a366)
+![Screenshot 2024-11-06 184210](https://github.com/user-attachments/assets/d1cd2d88-42f6-46bb-b020-47d5abc2a62b)
 
 
 SERVER:
 
-![image](https://github.com/23006823/4.Execution_of_NetworkCommends/assets/138971409/0f68ff71-ae05-4ecf-88cb-1460f7a65abe)
+![Screenshot 2024-11-06 184143](https://github.com/user-attachments/assets/d2be5386-4f29-475c-9c5a-bacb6fab77f0)
 
 TRANCEROUTE COMMAND:
 
-![image](https://github.com/23006823/4.Execution_of_NetworkCommends/assets/138971409/df583ff1-736c-4fb2-8128-e42e18e4caf8)
+![Screenshot 2024-11-06 184322](https://github.com/user-attachments/assets/daebd049-c6d9-40d5-b627-0fd698e1f919)
 
 ## Result
 Thus Execution of Network commands Performed 
