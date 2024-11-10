@@ -76,7 +76,7 @@ SERVER:
 
 TRANCEROUTE COMMAND:
 
-![Screenshot 2024-11-06 184322](https://github.com/user-attachments/assets/daebd049-c6d9-40d5-b627-0fd698e1f919)
+![Screenshot 2024-11-09 172007](https://github.com/user-attachments/assets/a5346502-23e1-4fa0-9503-d38f5b4dd0a9)
 
 ## Result
 Thus Execution of Network commands Performed 
